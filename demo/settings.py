@@ -30,6 +30,8 @@ ALLOWED_HOSTS = []
 # sample lines and stuff detail
 
 
+# second line
+
 # Application definition
 
 INSTALLED_APPS = [
