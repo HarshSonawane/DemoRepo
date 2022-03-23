@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+# sample lines and stuff detail
+
 
 # Application definition
 
